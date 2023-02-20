@@ -7,4 +7,4 @@ django-cloudinary-storage==0.3.0
 cloudinary==1.29.0
 psycopg2-binary==2.9.3
 whitenoise==6.1.0
-
+requests==2.28.0
